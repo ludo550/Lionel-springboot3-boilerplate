@@ -1,4 +1,4 @@
-# springboot3-microservice-boilerplate
+# Lionel's springboot3-boilerplate
 Microservice boilerplate application developed with Spring Boot 3(2024)
 ### Technologies
 * Spring Boot
